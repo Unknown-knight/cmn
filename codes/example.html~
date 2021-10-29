@@ -1,0 +1,20 @@
+<html>
+  <head>
+      <title>example_html</title>
+  </head>
+  <body>
+      <h1>hello world</h1>
+      <p>I'm learning code</p>
+      <p> today I learned about:</p 
+      <ol>
+          <li><strong>the strong tag</strong></li>
+          <li><em>the emphasis tag</em></li>
+      <ol>
+      <p>I also learned about:</p>
+      <ul>
+          <li>The ordered list</li>
+          <li>The unordered list</li>
+      </ul>
+      <a href=HTMLma.html><img src=croppedBitmap.png></img></a>
+  </body>
+</html>  

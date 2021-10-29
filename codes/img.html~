@@ -1,0 +1,17 @@
+<head>
+<style>
+.half-width{
+          width:50%;
+          float: right;
+     }
+     .side-img{
+	width:50%;
+	padding-left:0%;
+	
+     }
+</style>
+</head>
+<body>
+<img class=side-img src=croppedBitmap.png></img>
+<img class=half-width src=ReactNative-snapshot-image1235158884780279212.png></img>
+</body>

@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+	<head>
+		<title>my cv md unknown knight </title>
+		<link rel=stylesheet type=text/css href=mycv.css
+        
+     }
+		</style>
+	</head>
+	<body>
+		<div class=half-width>
+		<a href=img.html><img class=side-img src=croppedBitmap.png></img></a>
+		</div>
+		<section class=s01>
+		<h1 class=h1_1><strong>NAME</strong></h1>
+		<p class=p_1><strong><em>MOHAMMED FARMAHDI</em></strong></p>  
+		<h1 class=h1_1>info</h1>
+		<p class=001>age:13</p>
+		<p class=001>Birthdate:21/1/2008</p>
+		<p class=001>Father's name: MOHAMMED NASIR UDDIN</P>
+		<p class=001>Mother's name:FARZANA AKTER</p>
+		<p class=001>country: BANGLADESH</p>
+		<p class=001>nationality: Bangladeshi</p>
+		<p class=001>Religion: ISLAM</P>
+		</section>
+		<h1 class=h1_1></strong>experience and skills</strong></h1>
+		<p><em>programmer and webdeveloper beginner</em></p>
+		<p><em>coding languages I know:-</em></p>
+		<ul>
+		  <li>java</li>
+		  <li>python</li>
+		  <li>html</li>
+		</ul>
+		<p><em>languages I know:-</em></p>
+		<ul>
+	    <li>Bangla</li>
+	    <li>English</li>
+	    <li>Hindi</li>	
+		</ul>
+		<h1 class=h1_1>occupation</h1>
+		<p>class 8 student</p>
+		
+	
+	<section class=s01>
+		<h1 class=h1_1>Hobbies</h1>
+		<ol>
+	<li>watching YouTube</li>
+	<li>watching anime</li>
+	<li>cycling</li>
+	<li>playing games</li>
+	</body>
+	</section>
+	<footer >
+	©mycv MD UNKNOWN KNIGHT
+<h1 class=h1_1>contact me</h1>
+	<p>email:- farmahdimahdi2@gmail.com phone number:- 01987936066
+		</p>
+	</footer>	
